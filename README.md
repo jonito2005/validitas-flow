@@ -7,6 +7,8 @@ Materi pembelajaran ini disusun berdasarkan unit kompetensi J.63OPR00.015.2 tent
 
 Dalam era digital saat ini, data menjadi aset penting bagi organisasi. Memastikan validitas data merupakan langkah krusial untuk mendukung proses bisnis yang efektif dan pengambilan keputusan yang tepat. Materi ini akan membahas secara komprehensif tentang konsep validasi data, identifikasi substansi data, referensi data, pemeriksaan validitas, dan pemutakhiran data.
 
+![Big Data Concept](https://private-us-east-1.manuscdn.com/sessionFile/Q0DjkTuBm2wv8NUaW1mw43/sandbox/BOTaiKK2cSXkgBHs7cnYoM-images_1745467885291_na1fn_L2hvbWUvdWJ1bnR1L2RhdGFfdmFsaWRhdGlvbl9wcm9qZWN0L2ltYWdlcy9iaWdfZGF0YQ.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUTBEamtUdUJtMnd2OE5VYVcxbXc0My9zYW5kYm94L0JPVGFpS0syY1NYa2dCSHM3Y25Zb00taW1hZ2VzXzE3NDU0Njc4ODUyOTFfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyUmhkR0ZmZG1Gc2FXUmhkR2x2Ymw5d2NtOXFaV04wTDJsdFlXZGxjeTlpYVdkZlpHRjBZUS5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjcyMjU2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=ixA8FD526fO9R~mr4lxymkCQFQbKAO3YmXFJFCzGZg-LnE-26~pA~~lGNhrewLPfVUgIrqbUSGzuPnjj7edZpzb0~pMyJ2YGXOn~Fx6qGMqGVaujA1DrQnJXXlQiRwby0~H9WhB0gMQuWwzsfGu96fYsG3p0hD~egC2N14b-1DBBMqdpm5dsNXhqDDlq6ifJ9vccWEhj-kFJSBbvBLg1gj0dQtNG77zKW34ds--A~cUmTBq5gYptB89VCm1znZXRrbpHzfofToqBE0S0YsTxfb0gsZ-Rb2om8XT1eCfmknuo4LzGb4R87nO8Ft8AkAPSwXTMXdguqocaEXfXtVxCAA__)
+
 ## Daftar Isi
 
 1. **Mengidentifikasi Substansi Data yang Dimasukkan**
@@ -197,6 +199,8 @@ Pemeriksaan akurasi data yang dimasukkan melibatkan berbagai jenis validasi:
 
 - **Validasi Keunikan**: Memeriksa bahwa data yang seharusnya unik (seperti ID atau email) tidak duplikat.
 
+![Validation Check](https://private-us-east-1.manuscdn.com/sessionFile/Q0DjkTuBm2wv8NUaW1mw43/sandbox/BOTaiKK2cSXkgBHs7cnYoM-images_1745467885291_na1fn_L2hvbWUvdWJ1bnR1L2RhdGFfdmFsaWRhdGlvbl9wcm9qZWN0L2ltYWdlcy92YWxpZGF0aW9uX2NoZWNr.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUTBEamtUdUJtMnd2OE5VYVcxbXc0My9zYW5kYm94L0JPVGFpS0syY1NYa2dCSHM3Y25Zb00taW1hZ2VzXzE3NDU0Njc4ODUyOTFfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyUmhkR0ZmZG1Gc2FXUmhkR2x2Ymw5d2NtOXFaV04wTDJsdFlXZGxjeTkyWVd4cFpHRjBhVzl1WDJOb1pXTnIucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3MjI1NjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=abCInJqnIMC2snQE8NgBkXXI0N96tv4SzXfWqZbzFsWfmZE16gyS9AbZCzU3v0TDxmt~zEVyT28D9cvJfzA3HRi3Kputec3M3UgNk3c33sUMQtL3kF5CxTmJm-Nt9jA3Vq4XbenHm3uaMqHYBAzhPp4ti8-S-6VqkcaKjHOivXn3IUdMykv60OBxWgpabrQuDRWSXDsK~eKXBchhRyCoAv15EO362CD4JNPh1rYJIi9C~qKO-9AqEjddkcz5DY5G347qBamYegMbSCJjGdFIQfRJtPtdI8Xx8p~lFxXo05mj9XcLp1ArxCH-M3EfIDEhfPubvPRfYFwY0i07nTpUFQ__)
+
 **Contoh Praktis:**
 Dalam sistem pendaftaran online, data yang dimasukkan divalidasi dengan:
 - Email: format valid (nama@domain.com) dan belum terdaftar sebelumnya
@@ -307,89 +311,54 @@ Dalam sistem manajemen kontak, data diperbarui dengan:
 
 ### 5.1 Pengertian dan Jenis Validasi Data
 
-Validasi data adalah proses memverifikasi akurasi, konsistensi, dan kepatuhan data terhadap standar kualitas yang telah ditentukan. Proses ini melibatkan pemeriksaan data terhadap aturan atau kriteria tertentu, seperti tipe data, batasan rentang, dan spesifikasi format, untuk memverifikasi integritas dan kebenaran data.
+Validasi data adalah proses memverifikasi akurasi, konsistensi, dan kepatuhan data terhadap standar kualitas yang telah ditentukan. Jenis-jenis validasi data meliputi:
 
-Terdapat tiga jenis utama validasi data:
+- **Validasi Sintaksis**: Memeriksa bahwa data mengikuti aturan sintaksis yang ditentukan, seperti format, tipe, atau panjang.
 
-1. **Validasi Pra-Entri (Pre-entry Data Validation)**:
-   - Berfokus pada pencegahan data yang jelas salah atau tidak lengkap sebelum dimasukkan ke sistem
-   - Terjadi pada titik pengumpulan data atau inisiasi entri data
-   - Contoh: pemeriksaan bidang wajib, pemeriksaan tipe data, pemeriksaan format
+- **Validasi Semantik**: Memeriksa bahwa data memiliki makna yang benar dan konsisten dalam konteks penggunaannya.
 
-2. **Validasi Entri (Entry Data Validation)**:
-   - Berfokus pada pemeriksaan real-time selama proses entri data
-   - Memberikan umpan balik langsung kepada pengguna
-   - Contoh: menu dropdown, penandaan kesalahan saat terjadi, validasi terhadap aturan yang telah ditentukan
+- **Validasi Referensial**: Memeriksa bahwa data yang merujuk ke entitas lain (seperti kunci asing) memiliki referensi yang valid.
 
-3. **Validasi Pasca-Entri (Post-entry Data Validation)**:
-   - Berfokus pada penilaian dan pemeliharaan kualitas data yang sudah ada dalam sistem
-   - Dilakukan melalui rutinitas pemrosesan batch atau pemeriksaan validasi berkala
-   - Contoh: pembersihan data, pemeriksaan integritas referensial, validasi terhadap aturan yang telah ditentukan
+- **Validasi Domain**: Memeriksa bahwa nilai data berada dalam domain atau rentang yang diizinkan.
+
+- **Validasi Bisnis**: Memeriksa bahwa data mematuhi aturan bisnis dan logika yang ditentukan oleh organisasi.
 
 ### 5.2 Tipe-Tipe Pemeriksaan Validasi Data
 
-Berikut adalah beberapa tipe pemeriksaan validasi data yang umum digunakan:
+Pemeriksaan validasi data dapat dilakukan dengan berbagai cara, termasuk:
 
-1. **Pemeriksaan Tipe Data (Data Type Check)**:
-   - Mengkonfirmasi bahwa data memiliki tipe yang benar (numerik, teks, tanggal, dll.)
-   - Contoh: memastikan bahwa bidang usia hanya berisi angka
+- **Validasi Input**: Memeriksa data saat dimasukkan ke dalam sistem, biasanya melalui antarmuka pengguna.
 
-2. **Pemeriksaan Kode (Code Check)**:
-   - Memastikan bahwa bidang dipilih dari daftar nilai yang valid atau mengikuti aturan pemformatan tertentu
-   - Contoh: memverifikasi kode pos terhadap daftar kode pos yang valid
+- **Validasi Batch**: Memeriksa kumpulan data secara kolektif, biasanya setelah proses impor atau migrasi.
 
-3. **Pemeriksaan Rentang (Range Check)**:
-   - Memverifikasi bahwa nilai numerik berada dalam rentang yang ditentukan
-   - Contoh: memastikan bahwa nilai garis lintang berada antara -90 dan 90
+- **Validasi Database**: Memeriksa data saat disimpan atau diambil dari database, biasanya melalui batasan atau trigger.
 
-4. **Pemeriksaan Format (Format Check)**:
-   - Memeriksa bahwa data mengikuti format yang ditentukan
-   - Contoh: memastikan tanggal dalam format YYYY-MM-DD
+- **Validasi Aplikasi**: Memeriksa data dalam konteks aplikasi tertentu, biasanya melalui logika bisnis yang diterapkan dalam kode aplikasi.
 
-5. **Pemeriksaan Konsistensi (Consistency Check)**:
-   - Mengkonfirmasi bahwa data telah dimasukkan dengan cara yang logis konsisten
-   - Contoh: memastikan tanggal pengiriman setelah tanggal pemesanan
-
-6. **Pemeriksaan Keunikan (Uniqueness Check)**:
-   - Memastikan bahwa data yang seharusnya unik tidak duplikat
-   - Contoh: memastikan bahwa ID karyawan atau alamat email tidak dimasukkan beberapa kali
+- **Validasi Cross-Field**: Memeriksa konsistensi antar bidang atau atribut yang saling berhubungan.
 
 ### 5.3 Manfaat Validasi Data
 
-Validasi data memberikan berbagai manfaat bagi organisasi, di antaranya:
+Validasi data memberikan berbagai manfaat bagi organisasi, termasuk:
 
-1. **Peningkatan Kualitas Data**: Memastikan data akurat, lengkap, dan konsisten
+- **Peningkatan Kualitas Data**: Memastikan bahwa data akurat, konsisten, dan dapat diandalkan untuk pengambilan keputusan.
 
-2. **Pencegahan Kesalahan**: Mengidentifikasi dan memperbaiki kesalahan sebelum memasuki sistem
+- **Pengurangan Kesalahan**: Mengurangi kesalahan yang disebabkan oleh data yang tidak valid atau tidak akurat.
 
-3. **Peningkatan Konsistensi Data**: Menjaga konsistensi dalam format dan struktur data
+- **Efisiensi Operasional**: Meningkatkan efisiensi operasional dengan mengurangi kebutuhan untuk memperbaiki kesalahan data.
 
-4. **Integritas Data**: Memastikan data memenuhi aturan bisnis dan persyaratan yang telah ditentukan
+- **Kepatuhan Regulasi**: Membantu organisasi mematuhi persyaratan regulasi terkait kualitas dan keamanan data.
 
-5. **Peningkatan Pengambilan Keputusan**: Mendukung analisis yang lebih akurat dan wawasan yang lebih andal
+- **Kepercayaan Pengguna**: Meningkatkan kepercayaan pengguna terhadap sistem dan data yang dihasilkannya.
 
-6. **Pengurangan Kesalahan Entri Data**: Memberikan umpan balik langsung kepada pengguna saat data tidak valid
+## 6. Referensi
 
-7. **Pemrosesan Data Lebih Cepat**: Mengurangi kebutuhan untuk pembersihan dan koreksi data
+1. Atlan. (2023). What is Data Validation? Definition, Types, and Best Practices. Diakses dari https://atlan.com/what-is-data-validation/
 
-8. **Kepatuhan dan Persyaratan Regulasi**: Membantu memenuhi persyaratan kepatuhan dan regulasi
+2. Corporate Finance Institute. (2023). Data Validation. Diakses dari https://corporatefinanceinstitute.com/resources/data-science/data-validation/
 
-9. **Antarmuka yang Ramah Pengguna**: Memberikan umpan balik yang jelas dan panduan tentang format data yang benar
+3. BigID. (2023). What is Reference Data? Diakses dari https://bigid.com/blog/what-is-reference-data/
 
-## Kesimpulan
+4. LinkedIn. (2023). How can you ensure data security validation process. Diakses dari https://www.linkedin.com/advice/1/how-can-you-ensure-data-security-validation-process
 
-Memastikan validitas data adalah proses yang kritis dalam manajemen data yang efektif. Dengan mengidentifikasi substansi data, memahami referensi data, memeriksa validitas, dan melakukan pemutakhiran data secara teratur, organisasi dapat memastikan bahwa data mereka akurat, konsisten, dan dapat diandalkan untuk mendukung proses bisnis dan pengambilan keputusan.
-
-Implementasi praktik-praktik validasi data yang baik tidak hanya meningkatkan kualitas data tetapi juga meningkatkan efisiensi operasional, mengurangi risiko, dan mendukung kepatuhan terhadap regulasi. Dalam era digital di mana data menjadi aset strategis, kemampuan untuk memastikan validitas data menjadi kompetensi yang sangat berharga bagi individu dan organisasi.
-
-## Referensi
-
-1. Atlan. (2025). Data Validation: Processes, Benefits & Types. https://atlan.com/what-is-data-validation/
-
-2. Corporate Finance Institute. (n.d.). Data Validation - Overview, Types, Practical Examples. https://corporatefinanceinstitute.com/resources/data-science/data-validation/
-
-3. BigID. (2023). Efficiently Managing Reference Data for Business Success. https://bigid.com/blog/what-is-reference-data/
-
-4. LinkedIn. (2023). Data Security in the Validation Process: 6 Best Practices. https://www.linkedin.com/advice/1/how-can-you-ensure-data-security-validation-process
-
-5. Science Direct. (2024). StatMetaQA: A dataset for closed domain question answering in Indonesian statistical metadata. https://www.sciencedirect.com/science/article/pii/S2352340924007807
+5. ScienceDirect. (2024). Data Validation and Updating Process. Diakses dari https://www.sciencedirect.com/science/article/pii/S2352340924007807
